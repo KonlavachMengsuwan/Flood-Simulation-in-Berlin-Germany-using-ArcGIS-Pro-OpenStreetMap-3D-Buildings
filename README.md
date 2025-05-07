@@ -52,8 +52,6 @@ This repository shows how to create a basic flood simulation in **Berlin, German
 ---
 
 ## 🎨 Example Result
-
-Here’s an example flood simulation map in Berlin:
 ![4](https://github.com/user-attachments/assets/e65fa459-d3e5-4362-8aec-b0af2413f8e0)
 ![3](https://github.com/user-attachments/assets/dad396df-6303-4780-b103-c3bee8e19939)
 ![1](https://github.com/user-attachments/assets/f67d2416-25d5-4629-a98c-e304a88510dd)
